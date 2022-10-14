@@ -5,4 +5,4 @@ opensc22f
 
 # 개요
 > 사용자의 표정 이미지에서 감정을 인식해 그날 하루의 기분을 기록하는 플랫폼이다. 따로 자신의 기분을 설명할 필요 없이 자신의 셀피로만 일상의 감정을 기록할 수 있다.
->    ![picture](C:\Users\hk-Lee\Documents\2022 2학기\오픈소스 기초설계\IMG-0051.JPG "example")
+>    ![IMG-0051](https://user-images.githubusercontent.com/101104393/195854431-0c757d1b-3f6f-4bd7-b1b1-f2b0fa0d9f22.JPG "")
